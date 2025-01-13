@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1736784373,,"wq"
+|2,0,1736786572,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,38 +25,88 @@
 # Registers:
 
 # File marks:
-'0  4  4  ~/salarytax.sh
-|4,48,4,4,1736784373,"~/salarytax.sh"
-'1  8  44  ~/salarytax.sh
-|4,49,8,44,1736784229,"~/salarytax.sh"
-'2  7  44  ~/salarytax.sh
-|4,50,7,44,1736784229,"~/salarytax.sh"
-'3  14  4  ~/salarytax.sh
-|4,51,14,4,1736784175,"~/salarytax.sh"
-'4  14  4  ~/salarytax.sh
-|4,52,14,4,1736784175,"~/salarytax.sh"
-'5  14  4  ~/salarytax.sh
-|4,53,14,4,1736784175,"~/salarytax.sh"
-'6  14  4  ~/salarytax.sh
-|4,54,14,4,1736784175,"~/salarytax.sh"
-'7  3  25  ~/salarytax.sh
-|4,55,3,25,1736784071,"~/salarytax.sh"
-'8  3  25  ~/salarytax.sh
-|4,56,3,25,1736784071,"~/salarytax.sh"
-'9  3  25  ~/salarytax.sh
-|4,57,3,25,1736784071,"~/salarytax.sh"
+'0  14  23  ~/salarytax.sh
+|4,48,14,23,1736786572,"~/salarytax.sh"
+'1  16  30  ~/salarytax.sh
+|4,49,16,30,1736786546,"~/salarytax.sh"
+'2  16  30  ~/salarytax.sh
+|4,50,16,30,1736786546,"~/salarytax.sh"
+'3  16  25  ~/userauthetication.sh
+|4,51,16,25,1736786388,"~/userauthetication.sh"
+'4  4  4  ~/salarytax.sh
+|4,52,4,4,1736784373,"~/salarytax.sh"
+'5  4  4  ~/salarytax.sh
+|4,53,4,4,1736784373,"~/salarytax.sh"
+'6  4  4  ~/salarytax.sh
+|4,54,4,4,1736784373,"~/salarytax.sh"
+'7  4  4  ~/salarytax.sh
+|4,55,4,4,1736784373,"~/salarytax.sh"
+'8  8  44  ~/salarytax.sh
+|4,56,8,44,1736784229,"~/salarytax.sh"
+'9  7  44  ~/salarytax.sh
+|4,57,7,44,1736784229,"~/salarytax.sh"
 
 # Jumplist (newest first):
+-'  14  23  ~/salarytax.sh
+|4,39,14,23,1736786572,"~/salarytax.sh"
+-'  16  30  ~/salarytax.sh
+|4,39,16,30,1736786561,"~/salarytax.sh"
+-'  16  30  ~/salarytax.sh
+|4,39,16,30,1736786546,"~/salarytax.sh"
+-'  4  4  ~/salarytax.sh
+|4,39,4,4,1736786432,"~/salarytax.sh"
+-'  4  4  ~/salarytax.sh
+|4,39,4,4,1736786432,"~/salarytax.sh"
+-'  16  25  ~/userauthetication.sh
+|4,39,16,25,1736786388,"~/userauthetication.sh"
+-'  16  25  ~/userauthetication.sh
+|4,39,16,25,1736786388,"~/userauthetication.sh"
+-'  16  25  ~/userauthetication.sh
+|4,39,16,25,1736786388,"~/userauthetication.sh"
+-'  16  25  ~/userauthetication.sh
+|4,39,16,25,1736786388,"~/userauthetication.sh"
+-'  3  23  ~/userauthetication.sh
+|4,39,3,23,1736786101,"~/userauthetication.sh"
+-'  3  23  ~/userauthetication.sh
+|4,39,3,23,1736786101,"~/userauthetication.sh"
+-'  3  23  ~/userauthetication.sh
+|4,39,3,23,1736786101,"~/userauthetication.sh"
+-'  3  23  ~/userauthetication.sh
+|4,39,3,23,1736786101,"~/userauthetication.sh"
+-'  4  4  ~/salarytax.sh
+|4,39,4,4,1736784373,"~/salarytax.sh"
 -'  4  4  ~/salarytax.sh
 |4,39,4,4,1736784373,"~/salarytax.sh"
 -'  8  44  ~/salarytax.sh
 |4,39,8,44,1736784238,"~/salarytax.sh"
+-'  8  44  ~/salarytax.sh
+|4,39,8,44,1736784238,"~/salarytax.sh"
+-'  8  44  ~/salarytax.sh
+|4,39,8,44,1736784238,"~/salarytax.sh"
+-'  8  44  ~/salarytax.sh
+|4,39,8,44,1736784238,"~/salarytax.sh"
 -'  7  44  ~/salarytax.sh
 |4,39,7,44,1736784229,"~/salarytax.sh"
+-'  7  44  ~/salarytax.sh
+|4,39,7,44,1736784229,"~/salarytax.sh"
+-'  7  44  ~/salarytax.sh
+|4,39,7,44,1736784229,"~/salarytax.sh"
+-'  7  44  ~/salarytax.sh
+|4,39,7,44,1736784229,"~/salarytax.sh"
+-'  17  4  ~/salarytax.sh
+|4,39,17,4,1736784186,"~/salarytax.sh"
+-'  17  4  ~/salarytax.sh
+|4,39,17,4,1736784186,"~/salarytax.sh"
 -'  14  4  ~/salarytax.sh
 |4,39,14,4,1736784186,"~/salarytax.sh"
 -'  14  4  ~/salarytax.sh
 |4,39,14,4,1736784186,"~/salarytax.sh"
+-'  14  4  ~/salarytax.sh
+|4,39,14,4,1736784186,"~/salarytax.sh"
+-'  14  4  ~/salarytax.sh
+|4,39,14,4,1736784186,"~/salarytax.sh"
+-'  14  4  ~/salarytax.sh
+|4,39,14,4,1736784175,"~/salarytax.sh"
 -'  14  4  ~/salarytax.sh
 |4,39,14,4,1736784175,"~/salarytax.sh"
 -'  3  25  ~/salarytax.sh
@@ -66,7 +116,21 @@
 -'  3  25  ~/salarytax.sh
 |4,39,3,25,1736784086,"~/salarytax.sh"
 -'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784086,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784086,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784086,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784086,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784086,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
 |4,39,3,25,1736784071,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784071,"~/salarytax.sh"
+-'  3  25  ~/salarytax.sh
+|4,39,3,25,1736784054,"~/salarytax.sh"
 -'  3  25  ~/salarytax.sh
 |4,39,3,25,1736784054,"~/salarytax.sh"
 -'  13  22  ~/salarytax.sh
@@ -79,6 +143,22 @@
 |4,39,13,22,1736784027,"~/salarytax.sh"
 -'  13  22  ~/salarytax.sh
 |4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784027,"~/salarytax.sh"
+-'  13  22  ~/salarytax.sh
+|4,39,13,22,1736784009,"~/salarytax.sh"
 -'  13  22  ~/salarytax.sh
 |4,39,13,22,1736784009,"~/salarytax.sh"
 -'  1  0  ~/salarytax.sh
@@ -93,6 +173,22 @@
 |4,39,1,0,1736783874,"~/salarytax.sh"
 -'  1  0  ~/salarytax.sh
 |4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
+-'  1  0  ~/salarytax.sh
+|4,39,1,0,1736783874,"~/salarytax.sh"
 -'  16  5  ~/age.sh
 |4,39,16,5,1736783833,"~/age.sh"
 -'  16  5  ~/age.sh
@@ -151,111 +247,15 @@
 |4,39,16,5,1736783833,"~/age.sh"
 -'  16  5  ~/age.sh
 |4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  16  5  ~/age.sh
-|4,39,16,5,1736783833,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1736783247,"~/age.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/salarytax.sh
-	*	1736784369	0
-	"	4	4
-	^	4	5
-	.	4	4
-	+	16	1
+	*	1736786571	0
+	"	14	23
+	^	14	24
+	.	14	23
+	+	19	1
 	+	5	16
 	+	8	18
 	+	10	23
@@ -266,7 +266,7 @@
 	+	11	8
 	+	12	4
 	+	13	7
-	+	14	4
+	+	17	4
 	+	11	33
 	+	5	24
 	+	8	45
@@ -274,9 +274,34 @@
 	+	11	2
 	+	12	3
 	+	13	4
-	+	15	18
+	+	18	18
 	+	3	25
 	+	4	4
+	+	14	25
+	+	15	4
+	+	16	31
+	+	15	4
+	+	16	31
+	+	16	5
+	+	17	0
+	+	14	23
+
+> ~/userauthetication.sh
+	*	1736786387	0
+	"	16	25
+	^	16	26
+	.	16	25
+	+	17	2
+	+	14	37
+	+	3	23
+	+	4	24
+	+	5	16
+	+	4	27
+	+	5	31
+	+	13	40
+	+	14	37
+	+	15	4
+	+	16	25
 
 > ~/age.sh
 	*	1736783832	0
@@ -306,12 +331,3 @@
 	+	16	14
 	+	14	3
 	+	16	5
-
-> ~/userauthetication.sh
-	*	1736783208	0
-	"	3	23
-	^	3	24
-	.	3	23
-	+	14	2
-	+	13	37
-	+	3	23

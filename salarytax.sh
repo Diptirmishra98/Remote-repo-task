@@ -11,6 +11,9 @@ then
 elif [[ $var1 -gt 30000 ]]
 then 
       echo "the tax rate is 10%"
+elif [[ $var1 -eq 15000 ]]
+then 
+      echo "the tax rate is 2%" 	
 else
       echo "Nothing"
 fi
